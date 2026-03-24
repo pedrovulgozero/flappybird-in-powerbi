@@ -1,5 +1,5 @@
 # flappybird-in-powerbi
 Flappy Bird desenvolvido dentro de um visual do power BI
 
-
-![ezgif-5a3f7b5be6dba9a5](https://github.com/user-attachments/assets/ee7333c1-de64-462e-abc9-968209b10996)
+Demonstração:
+![ezgif-5f06be4976e4e837](https://github.com/user-attachments/assets/ac94a265-2b0e-4c4e-b660-ef0471c100ac)
